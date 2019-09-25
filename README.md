@@ -1,2 +1,0 @@
-# slview
-My playlist
